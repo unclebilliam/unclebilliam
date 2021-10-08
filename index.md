@@ -16,3 +16,6 @@ I AM MR. LUCKY CHARMS <p>
  <img src="https://image.shutterstock.com/image-photo/crazy-old-woman-wearing-viking-260nw-28967845.jpg" height="400" width="250"/>mommy
 <p> <img src="https://i.ytimg.com/vi/qkysU6P-yys/maxresdefault.jpg" height="250" width="400"/>my son
  <p> <img src="https://www.covermesongs.com/wp-content/uploads/2011/06/WeirdAl-500x400.jpg"/>my wife
+<p> <img src="https://i.ytimg.com/vi/TQsUG3kprB0/maxresdefault.jpg"/>my adopted brother
+ <p> 
+  <img src="https://static.wikia.nocookie.net/redditxi/images/8/82/Steve_ok.png/revision/latest/scale-to-width-down/821?cb=20170424191141"/>my adopted son
