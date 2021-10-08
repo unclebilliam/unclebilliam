@@ -8,3 +8,4 @@ I AM MR. LUCKY CHARMS <p>
    <img src="https://i.ytimg.com/vi/IKi7ZcKkVGs/maxresdefault.jpg" height="300" width="500"/>
    MY REAL FACE
     <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202101/amouhaji_660_200121122043.jpg?size=948:533" height="250" width="400"/> my daddy
+    Contact me at <a href="tel:+6969696420>696-969-6420</a>
