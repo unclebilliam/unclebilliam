@@ -14,3 +14,5 @@ I AM MR. LUCKY CHARMS <p>
   <p> My Home Address: <a href="https://www.google.com/maps/place/William+Dick+School/@39.9866462,-75.1760614,17z/data=!3m2!4b1!5s0x89c6c7ec73a9b0ff:0x749dffefc30134!4m5!3m4!1s0x89c6c7ec678bdc59:0xca1ba084ca5563f8!8m2!3d39.9866421!4d-75.1738727">6969 Uncle Wig Billiam's Place Avenue</a>
 <p>
  <img src="https://image.shutterstock.com/image-photo/crazy-old-woman-wearing-viking-260nw-28967845.jpg" height="400" width="250"/>mommy
+<p> <img src="https://i.ytimg.com/vi/qkysU6P-yys/maxresdefault.jpg" height="250" width="400"/>my son
+ <p> <img src="https://www.covermesongs.com/wp-content/uploads/2011/06/WeirdAl-500x400.jpg"/>my wife
