@@ -5,5 +5,5 @@ I AM MR. LUCKY CHARMS <p>
   <p>
    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">THIS IS MY REAL VOICE</a>
    <p>
-   <img src="https://i.ytimg.com/vi/IKi7ZcKkVGs/maxresdefault.jpg" height="500" width="500"/>
+   <img src="https://i.ytimg.com/vi/IKi7ZcKkVGs/maxresdefault.jpg" height="300" width="500"/>
    MY REAL FACE ↑↑↑↑↑
