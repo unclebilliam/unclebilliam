@@ -22,4 +22,4 @@ I AM MR. LUCKY CHARMS <p>
 <p><img src="https://i.ytimg.com/vi/cdxRy_jNCqI/mqdefault.jpg"/>my cat (his name is dog)
  <p><img src="https://yt3.ggpht.com/ytc/AKedOLTwRJFPnsthTZ5fA1xXs4EVZs4yRnAtWrwOXNp2=s900-c-k-c0x00ffffff-no-rj" width="300" height="400"/>my bff
   <p><img src="http://3.bp.blogspot.com/-KWOtKSJrcJk/Th71mKiiu0I/AAAAAAAAESs/TZD2w4JlPDE/s1600/smiling_dog.jpg"/>my dog (his name is fish)
-<p><img src="https://www.gannett-cdn.com/-mm-/8dadc5dbe007d8798b0802af346985bb3b8ec3bf/c=40-0-320-210/local/-/media/AsburyPark/2015/03/18/B9316647095Z.1_20150318144334_000_G3TA8NPVJ.1-0.jpg?quality=50&width=640"/>other best friend
+<p><img src="https://www.gannett-cdn.com/-mm-/8dadc5dbe007d8798b0802af346985bb3b8ec3bf/c=40-0-320-210/local/-/media/AsburyPark/2015/03/18/B9316647095Z.1_20150318144334_000_G3TA8NPVJ.1-0.jpg?quality=50&width=640 height="250" wifth="250"/>other best friend
