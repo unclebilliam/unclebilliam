@@ -21,3 +21,4 @@ I AM MR. LUCKY CHARMS <p>
   <img src="https://i1.sndcdn.com/artworks-000642803224-a4orcq-t500x500.jpg" width="400" height="250"/>my adopted son
 <p><img src="https://i.ytimg.com/vi/cdxRy_jNCqI/mqdefault.jpg"/>my cat (his name is dog)
  <p><img src="https://yt3.ggpht.com/ytc/AKedOLTwRJFPnsthTZ5fA1xXs4EVZs4yRnAtWrwOXNp2=s900-c-k-c0x00ffffff-no-rj" width="300" height="400"/>my bff
+  <p><img src="http://3.bp.blogspot.com/-KWOtKSJrcJk/Th71mKiiu0I/AAAAAAAAESs/TZD2w4JlPDE/s1600/smiling_dog.jpg"/>my dog (his name is fish)
